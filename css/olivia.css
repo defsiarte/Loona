@@ -1,0 +1,26 @@
+div.hImg12{
+    max-height: 30%;
+    max-width: 100%;
+    padding: 15%;
+    background-image: url("../images/members/olivia/egoist_1.jpg");
+    background-color: #C0C0C0;
+    background-position: center;
+    background-repeat: no-repeat;
+    align-content: center;
+}
+.tableH12{
+    padding: 5%;
+    background-color: #C0C0C0;
+    color: white;
+    text-align: center;
+    font-size: 24px;
+    font-family: 'Sacramento', cursive;
+}
+.oliviaTA{
+    background-color: black;
+    color: white;
+}
+.oliviaTB{
+    background-color: white;
+    color: black;
+}

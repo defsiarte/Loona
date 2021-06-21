@@ -1,0 +1,26 @@
+div.hImg5{
+    max-height: 30%;
+    max-width: 100%;
+    padding: 15%;
+    background-image: url("../images/members/vivi/edily_1.jpg");
+    background-position: center;
+    background-color: #FFC5C8;
+    background-repeat: no-repeat;
+    align-content: center;
+}
+.tableH5{
+    padding: 5%;
+    background-color: #FFC5C8;
+    color: white;
+    text-align: center;
+    font-size: 24px;
+    font-family: 'Sacramento', cursive;
+}
+.viviTA{
+    background-color: #e6df6d;
+    color: white;
+}
+.viviTB{
+    background-color: #e7b0ea;
+    color: white;
+}

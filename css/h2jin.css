@@ -1,0 +1,25 @@
+div.hImg2{
+    max-height: 30%;
+    max-width: 100%;
+    padding: 15%;
+    background-image: url("../images/members/hyunjin/ay_1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    align-content: center;
+}
+.tableH2{
+    padding: 5%;
+    background-color: #FFCA14;
+    color: white;
+    text-align: center;
+    font-size: 24px;
+    font-family: 'Sacramento', cursive;
+}
+.hyunjinTA{
+    background-color: #06a89c;
+    color: white;
+}
+.hyunjinTB{
+    background-color: #f4f5c3;
+    color: black;
+}

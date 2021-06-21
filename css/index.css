@@ -1,0 +1,303 @@
+@charset "utf-8";
+/* main site */
+body{
+    font-family: 'Mina', sans-serif;
+    font-size: 3;
+    color: #000000;
+    background-color: #ffffff;
+    
+}
+p{
+    text-indent: 2%;
+    padding: 10px;
+}
+h1.en{
+    font-family: 'Sacramento', cursive;
+    font-size: 10;
+    text-align: center;
+    color: #ffffff;
+    font-style: oblique;
+    text-decoration: bold; 
+}
+.en-ab{
+    font-family: 'Sacramento', cursive;
+    font-size: 10;
+    text-align: center;
+    color: black;
+    font-style: oblique;
+    text-decoration: bold; 
+}
+h1.kr{
+    font-family: 'Nanum Myeongjo', serif;
+    font-size: 10;
+    text-align: center;
+    color: #ffffff;
+    font-style: oblique;
+    text-decoration: bold; 
+}
+div.inHead{
+    padding: 5%;
+}
+header{
+    position: sticky;
+    top: 0;
+    z-index: 2;
+}
+footer,header{
+	background-color: #000000;
+    padding: 3%;
+    font-family: 'Mina', sans-serif;
+    font-display: block;
+    color: #ffffff;
+}
+a.headerLink:link,a.footerLink:link, a.headerLink:visited,a.footerLink:visited{
+    color: #ffffff;
+}
+a.headerLink:hover,a.footerLink:hover{
+    color: aquamarine;
+}
+#navSpecial{
+    font-family: 'Sacramento', cursive;
+    font-size: 20px;
+    padding-left: 2%;
+}
+.nav>li {
+    display: inline-block;
+}
+div.headImgh{
+    padding: 25%;
+    background-image: url("../images/ot12_home.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    align-content: center;
+}
+div.video{
+    padding: 2%;
+    text-align: center;
+    align-content: center;
+}
+footer{
+	display: block;
+}
+/*About*/
+div.headImga{
+    padding: 15%;
+    color: #000000;
+    background-image: url("../images/ot12_about.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    align-content: center;
+}
+div.about{
+    max-width: 100%;
+    max-height: 30%;
+}
+img.about-img{
+    display: block;
+    max-width: inherit;
+}
+h1.abtPage{
+    font-family: 'Sacramento', cursive;
+    font-size: 10;
+    text-align: center;
+    font-style: oblique;
+    text-decoration: bold; 
+    
+}
+/*credits*/
+div.credits{
+    padding: 2%;
+}
+div.headImgc{
+    padding: 10%;
+    color: #ED008E;
+    background-image: url("../images/credits_header.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    align-content: center;
+}
+/* members*/
+a.mIndex{
+    color: white;
+}
+a.mIndexD{
+    color: black;
+}
+h1.mIndex{
+    font-family: 'Sacramento', cursive;
+    font-size: 48px;
+    text-decoration: bold;
+    text-align: center;
+    
+}
+div.member-index{
+    padding: 10px;
+    border-radius: 2%;
+    align-content: center;
+}
+img.mindex-img{
+    border-radius: 2%;
+    width: inherit;
+    height: inherit;
+}
+/* MEMBER PAGE SPECIFIC*/
+h1.memberPage{
+    font-family: 'Sacramento', cursive;
+    font-size: 1000%;
+    text-decoration: bold;
+    text-align: center;
+}
+h2.mInfo{
+    font-size: 100%;
+    text-decoration: bold;
+    text-align: center;
+    font-family: 'Mina', sans-serif;
+    padding: 10px;
+}
+img.tableImg{
+    width: 300px;
+}
+img.eraImg{
+    width: 50%;
+    border-radius: 2%;
+}
+span.kr{
+    font-size: 3;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+span.ch{
+    font-size: 3;
+    font-family: 'Noto Sans HK', sans-serif;
+}
+.th{
+    font-size: 5;
+    font-family: 'Sacramento', cursive;
+}
+.td{
+    font-size: 2;
+    font-family: 'Mina', sans-serif;
+    color: black;
+}
+div.breathe{
+    padding: 3%;
+}
+/*heejin*/
+div#heejin-index{
+    background-color: #ED008E;
+    color: white;
+    align-content: center;
+}
+h1.heejin, h3.eraHee{
+    color:white}
+
+/*hyunjin*/
+div#hyunjin-index{
+    background-color: #FFCA14;
+    color: white;
+    align-content: center;
+}
+h1.hyunjin, h3.eraHyun{
+    color:white}
+
+/*haseul*/
+div#haseul-index{
+    background-color: #03A233;
+    color: white;
+    align-content: center;
+}
+h1.haseul, h3.eraHa{
+    color:white}
+
+/*yeojin*/
+div#yeojin-index{
+    background-color: #FE9702;
+    color: white;
+    align-content: center;
+}
+h1.yeojin, h3.eraYeo{
+    color:white}
+
+/*vivi*/
+div#vivi-index{
+    background-color: #FFC5C8;
+    color: white;
+    align-content: center;
+}
+h1.vivi, h3.eraVivi{
+    color:white}
+
+/*jungeun*/
+div#jungeun-index{
+    background-color: #D90011;
+    color: white;
+    align-content: center;
+}
+h1.kimlip, h3.eraLip{
+    color:white}
+
+/*jinsoul*/
+div#jinsoul-index{
+    background-color: #0801D5;
+    color: black;
+    align-content: center;
+}
+h1.jinsoul, h3.eraJin{
+    color:black}
+
+/*choerry*/
+div#choerry-index{
+    background-color: #BA01DE;
+    color: white;
+    align-content: center;
+}
+h1.choerry, h3.eraChoe{
+    color:white}
+
+/*yves*/
+div#yves-index{
+    background-color: #790105;
+    color: white;
+    align-content: center;
+}
+h1.yves{color: #790105}
+h3.eraYves{
+    color:white}
+
+/*chuu*/
+div#chuu-index{
+    background-color: #FEA87D;
+    color: white;
+    align-content: center;
+}
+h1.chuu, h3.eraChuu{
+    color:white}
+
+/*gowon*/
+div#gowon-index{
+    background-color: #02BCA1;
+    color: white;
+    align-content: center;
+}
+h1.gowon{color:#02BCA1 }
+h3.eraGowon{
+    color:white}
+
+/*hyejoo*/
+div#hyejoo-index{
+    background-color: #C0C0C0;
+    color: #000007;
+    align-content: center;
+}
+h1.olivia, h3.eraOlivia{
+    color:black}
+
+/* ALBUMS SECTION LET'S GO*/
+img.imgAlbum{
+    width: 100%;
+}
+img.imgAlbum2{
+    width: 25%;
+}
+img.imgAlbum3{
+    width: 500px;
+}

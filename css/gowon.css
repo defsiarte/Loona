@@ -1,0 +1,26 @@
+div.hImg11{
+    max-height: 30%;
+    max-width: 100%;
+    padding: 15%;
+    background-image: url("../images/members/gowon/oao_1.jpg");
+    background-color: #02BCA1;
+    background-position: center;
+    background-repeat: no-repeat;
+    align-content: center;
+}
+.tableH11{
+    padding: 5%;
+    background-color: #02BCA1;
+    color: white;
+    text-align: center;
+    font-size: 24px;
+    font-family: 'Sacramento', cursive;
+}
+.gowonTA{
+    background-color: #bbe9db;
+    color: black;
+}
+.gowonTB{
+    background-color: #88d5e5;
+    color: white;
+}

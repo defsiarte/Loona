@@ -1,0 +1,25 @@
+div.hImg3{
+    max-height: 30%;
+    padding: 15%;
+    background-image: url("../images/members/haseul/lmi_1.jpg");
+    background-position: center;
+    background-color: #03A233;
+    background-repeat: no-repeat;
+    align-content: center;
+}
+.tableH3{
+    padding: 5%;
+    background-color: #03A233;
+    color: white;
+    text-align: center;
+    font-size: 24px;
+    font-family: 'Sacramento', cursive;
+}
+.haseulTA{
+    background-color: #66CDEC;
+    color: white;
+}
+.haseulTB{
+    background-color: #ffb1be;
+    color: white;
+}

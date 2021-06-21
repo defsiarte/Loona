@@ -1,0 +1,26 @@
+div.hImg10{
+    max-height: 30%;
+    max-width: 100%;
+    padding: 15%;
+    background-image: url("../images/members/chuu/ha_1.jpg");
+    background-color: #FEA87D;
+    background-position: center;
+    background-repeat: no-repeat;
+    align-content: center;
+}
+.tableH10{
+    padding: 5%;
+    background-color: #FEA87D;
+    color: white;
+    text-align: center;
+    font-size: 24px;
+    font-family: 'Sacramento', cursive;
+}
+.chuuTA{
+    background-color: #4a0f61;
+    color: white;
+}
+.chuuTB{
+    background-color: #da8aaa;
+    color: white;
+}

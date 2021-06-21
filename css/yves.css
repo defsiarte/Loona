@@ -1,0 +1,25 @@
+div.hImg9{
+    max-height: 30%;
+    max-width: 100%;
+    padding: 15%;
+    background-image: url("../images/members/yves/new_1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    align-content: center;
+}
+.tableH9{
+    padding: 5%;
+    background-color: #790105;
+    color: white;
+    text-align: center;
+    font-size: 24px;
+    font-family: 'Sacramento', cursive;
+}
+.yvesTA{
+    background-color: #9ad5f5;
+    color: black;
+}
+.yvesTB{
+    background-color: #712a59;
+    color: white;
+}

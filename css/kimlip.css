@@ -1,0 +1,25 @@
+div.hImg6{
+    max-height: 30%;
+    max-width: 100%;
+    padding: 15%;
+    background-image: url("../images/members/kimlip/eclipse_1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    align-content: center;
+}
+.tableH6{
+    padding: 5%;
+    background-color: #D90011;
+    color: white;
+    text-align: center;
+    font-size: 24px;
+    font-family: 'Sacramento', cursive;
+}
+.kimlipTA{
+    background-color: #4992b2;
+    color: white;
+}
+.kimlipTB{
+    background-color: #d4457b;
+    color: white;
+}
